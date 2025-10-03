@@ -101,17 +101,37 @@ ePassChecker/
 
 <div align="center">
 
-### QR Code Scanner Interface
-![QR Code Scanner](screenshots/PassScanning.jpg)
+### 🔍 **QR Code Scanner Interface**
+<img src="screenshots/PassScanning.jpg" alt="QR Code Scanner Interface" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 *Real-time QR code scanning with camera preview and detection overlay*
 
-### Travel Pass Details
-![Travel Pass Details](screenshots/PassDetails.jpg)
+---
+
+### 📄 **Travel Pass Details**
+<img src="screenshots/PassDetails.jpg" alt="Travel Pass Details" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 *Comprehensive pass details showing traveller information, route, and approval status*
 
-### Terms & Conditions View
-![Terms and Conditions](screenshots/PassDetailsTerms.jpg)
+---
+
+### 📋 **Terms & Conditions View**
+<img src="screenshots/PassDetailsTerms.jpg" alt="Terms and Conditions" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 *Detailed terms and conditions with supporting documents*
+
+</div>
+
+<div align="center">
+
+### 🎯 **App Features Showcase**
+
+| Feature | Description |
+|---------|-------------|
+| 🔍 **QR Scanning** | Real-time camera-based QR code detection and verification |
+| 📱 **Pass Display** | Complete travel pass information with government formatting |
+| 🛡️ **Security Check** | Automatic validation of pass authenticity and expiry |
+| 📄 **Document View** | Supporting documents and terms & conditions display |
 
 </div>
 
