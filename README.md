@@ -11,6 +11,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
+[![Status](https://img.shields.io/badge/Status-No%20Longer%20Maintained-red?style=for-the-badge)](#-project-status)
+
+
+
 </div>
 
 ---
