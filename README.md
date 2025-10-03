@@ -101,14 +101,17 @@ ePassChecker/
 
 <div align="center">
 
-### Scanner Interface
-![Scanner Interface](https://via.placeholder.com/300x600/2196F3/FFFFFF?text=QR+Scanner)
+### QR Code Scanner Interface
+![QR Code Scanner](screenshots/PassScanning.jpg)
+*Real-time QR code scanning with camera preview and detection overlay*
 
-### Pass Details
-![Pass Details](https://via.placeholder.com/300x600/4CAF50/FFFFFF?text=Pass+Details)
+### Travel Pass Details
+![Travel Pass Details](screenshots/PassDetails.jpg)
+*Comprehensive pass details showing traveller information, route, and approval status*
 
-### Document Viewer
-![Document Viewer](https://via.placeholder.com/300x600/FF9800/FFFFFF?text=Document+Viewer)
+### Terms & Conditions View
+![Terms and Conditions](screenshots/PassDetailsTerms.jpg)
+*Detailed terms and conditions with supporting documents*
 
 </div>
 
