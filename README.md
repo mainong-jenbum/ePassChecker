@@ -287,83 +287,62 @@ ePassChecker/
 ```
 
 ---
-
 ## 🤝 Contributing
 
-We welcome contributions to improve ePassChecker! Here's how you can help:
+> **⚠️ Important Notice**: This project is **no longer maintained**. It was developed as a specific solution for COVID-19 travel restrictions in 2020.
 
-### **Development Setup**
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-### **Contribution Guidelines**
-- Follow Android coding standards
-- Write clear commit messages
-- Test on multiple devices
-- Update documentation as needed
-- Respect government security requirements
-
-### **Areas for Contribution**
-- 🐛 Bug fixes and improvements
-- 📱 UI/UX enhancements
-- 🔒 Security improvements
-- 📚 Documentation updates
-- 🧪 Testing and quality assurance
+While the project is not actively maintained, the codebase serves as a reference for:
+- Android multi-step form implementation
+- RESTful API integration patterns
+- Material Design implementation
+- Firebase integration examples
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2020 ePass Project - Government of Arunachal Pradesh
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
+This project is developed for educational and reference purposes. Please ensure compliance with local regulations and data protection laws when using or modifying this code.
 
 ---
 
-## 👨‍💻 Author
 
-**Jenbum Apps** - *ePass Project Development Team*
+## 👨‍💻 Developer
 
-- **Project**: ePassChecker - COVID-19 Travel Pass Verification
-- **Organization**: Government of Arunachal Pradesh
-- **Location**: Bordumsa, District Changlang
-- **Year**: 2020 (COVID-19 Emergency Response)
+**Developed by**: [[Mainong Jenbum](https://jenbum.com)]  
+**Year**: 2020  
+**Purpose**: COVID-19 Travel Pass Management  
+**Location**: Changlang District, Arunachal Pradesh, India
 
-### **Acknowledgments**
-- Government of Arunachal Pradesh
-- District Administration, Changlang
-- COVID-19 Emergency Response Team
-- Security Personnel and Checkpoint Officials
+---
+
+## 🏥 Project Status
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-No%20Longer%20Maintained-red?style=for-the-badge)
+
+**This project is no longer being maintained.**
+
+*Developed during COVID-19 pandemic (2020) for travel pass management in Changlang District, Arunachal Pradesh. The application served its purpose during the pandemic and is now archived for reference.*
+
+</div>
+
+---
+
+## 📞 Contact
+
+For questions about this project or to discuss the implementation:
+
+- **Email**: [mainong.jenbum@gmail.com]
+- **GitHub**: [[@mainong-jenbum](https://github.com/mainong-jenbum)]
+- **LinkedIn**: [[Mainong Jenbum](https://www.linkedin.com/in/mainongjenbum/)]
 
 ---
 
 <div align="center">
 
-### 🏛️ **Government of Arunachal Pradesh**
-**Office of the Additional Deputy Commissioner**  
-**Bordumsa, District Changlang**
+**Made with ❤️ for the people of Changlang District, Arunachal Pradesh**
 
----
-
-**Developed during COVID-19 pandemic for public safety and travel management**
-
-[![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20❤️%20in-India-orange?style=for-the-badge)](https://github.com/yourusername)
+*During the challenging times of COVID-19 pandemic*
 
 </div>
