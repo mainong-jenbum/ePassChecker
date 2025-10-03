@@ -1,0 +1,3 @@
+rootProject.name='e-Pass Checker'
+include ':app'
+include ':core'

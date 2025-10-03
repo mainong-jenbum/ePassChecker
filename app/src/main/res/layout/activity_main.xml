@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/topLayout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true">
+    <LinearLayout
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:orientation="vertical"
+        android:background="@color/colorPrimaryDark">
+        <LinearLayout
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="24dp"
+            android:background="@drawable/rect_stroke_white">
+            <ImageView
+                android:layout_width = "56dp"
+                android:layout_height = "56dp"
+                android:src="@drawable/ic_govt"/>
+            <View
+                android:layout_width = "1dp"
+                android:layout_height = "match_parent"
+                android:background="#2FFFFFFF" />
+            <LinearLayout
+                android:layout_width = "0dp"
+                android:layout_height = "wrap_content"
+                android:layout_weight="5"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width = "match_parent"
+                    android:layout_height = "wrap_content"
+                    android:fontFamily = "sans-serif-black"
+                    android:gravity = "center"
+                    android:text = "GOVERNMENT OF ARUNACHAL PRADESH"
+                    android:textAllCaps = "true"
+                    android:textAppearance = "@style/TextAppearance.AppCompat.Small"
+                    android:textColor = "@android:color/white"
+                    android:textSize = "10sp" />
+
+                <TextView
+                    android:layout_width = "match_parent"
+                    android:layout_height = "wrap_content"
+                    android:fontFamily = "sans-serif-black"
+                    android:gravity = "center"
+                    android:text = "OFFICE OF THE ADDITIONAL DEPUTY COMMISSIONER"
+                    android:textAllCaps = "true"
+                    android:textAppearance = "@style/TextAppearance.AppCompat.Small"
+                    android:textColor = "@android:color/white"
+                    android:textSize = "10sp" />
+
+                <TextView
+                    android:layout_width = "match_parent"
+                    android:layout_height = "wrap_content"
+                    android:fontFamily = "sans-serif-black"
+                    android:gravity = "center"
+                    android:text = "BORDUMSA::DISTRICT CHANGLANG"
+                    android:textAllCaps = "true"
+                    android:textAppearance = "@style/TextAppearance.AppCompat.Small"
+                    android:textColor = "@android:color/white"
+                    android:textSize = "10sp" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width = "1dp"
+                android:layout_height = "match_parent"
+                android:background="#2FFFFFFF" />
+
+            <TextView
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:layout_weight = "1"
+                android:fontFamily = "sans-serif-black"
+                android:gravity = "center"
+                android:text = "ADC"
+                android:textAppearance = "@style/TextAppearance.AppCompat.Small"
+                android:textColor = "@android:color/white" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.jenbumapps.e_passchecker.utility.CameraSourcePreview
+        android:id = "@+id/preview"
+        android:layout_width = "match_parent"
+        android:layout_height = "450dp">
+
+        <com.jenbumapps.e_passchecker.utility.GraphicOverlay
+            android:id = "@+id/graphicOverlay"
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content" />
+
+    </com.jenbumapps.e_passchecker.utility.CameraSourcePreview>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tv_status"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:text="Scanning data .."
+        android:textColor="@android:color/black"
+        android:fontFamily="sans-serif-condensed"/>
+
+</LinearLayout>
